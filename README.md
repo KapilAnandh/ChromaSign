@@ -47,8 +47,8 @@ Visuals:
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/sign-language-color-detector.git
-cd sign-language-color-detector
+https://github.com/KapilAnandh/ChromaSign.git
+cd ChromaSign
 ### 2️⃣ Install Dependencies
 Create a virtual environment (recommended):
 
